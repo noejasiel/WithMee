@@ -38,13 +38,13 @@
   background-color: #06d6a0;
   border: 0.02px solid black;
   border-radius: 10%;
-  color:#ffffff;
 }
 .text {
   position: relative;
   top: 45%;
   left: 5%;
   display: none;
+  color:#ffffff;
 }
 
 h2 {
