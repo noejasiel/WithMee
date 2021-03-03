@@ -38,7 +38,7 @@
   background-color: #06d6a0;
   border: 0.02px solid black;
   border-radius: 10%;
-  color:white;
+  color:#ffffff;
 }
 .text {
   position: relative;
@@ -50,7 +50,7 @@
 h2 {
   margin: 0;
   text-align: center;
-  color: white;
+  color: #ffffff;
   margin-top: 2em;
 }
 
