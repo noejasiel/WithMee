@@ -38,6 +38,7 @@
   background-color: #06d6a0;
   border: 0.02px solid black;
   border-radius: 10%;
+  color:#ffffff;
 }
 .text {
   position: relative;
@@ -49,6 +50,8 @@
 h2 {
   margin: 0;
   text-align: center;
+  color: #ffffff;
+  padding-top: 2em;
 }
 
 @media (max-width: 800px) {
